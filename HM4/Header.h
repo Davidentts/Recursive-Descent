@@ -1,0 +1,9 @@
+#pragma once
+void S();
+void A();
+void B();
+void C();
+void D();
+void E();
+void H();
+void error();
